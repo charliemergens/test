@@ -1,0 +1,46 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(13, 67, 67);
+    color: azure;
+    background-image: url(https://i.pinimg.com/originals/61/7d/b6/617db66eb2e21ddfd58cb3397456dd88.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    color: chartreuse;
+    background-color: gray;
+}
+a:visited{
+    color: aquamarine;
+}
+
+h1, h2{
+    text-align: center;
+}
+img{
+    border: 5px solid orange;
+    padding: 5px;
+    height: 250px;
+    /* margin: auto;
+    display: block; */
+}
+.rizz{
+    font-family: comicsans;
+    color: yellow;
+    border: 5px dashed blueviolet;
+    font-size: 400%;
+    font-weight: bolder;
+    background-color: hotpink;
+}
+.rizz:hover{
+    font-size: 450%;
+    color: rebeccapurple;
+    border: 5px solid cyan;
+}
+li:hover{
+    text-decoration: underline;
+    background-color: rgb(242, 121, 141);
+}
+li{
+    width: fit-content
+}

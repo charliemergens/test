@@ -1,0 +1,10 @@
+body{
+    font-family: sans-serif;
+    background-color: rgb(203, 225, 218);
+}
+h1, h2, h3, .subheading{
+    font-family: sans-serif !important;
+}
+a:hover{
+    color: rgb(101, 55, 55) !important;
+}
